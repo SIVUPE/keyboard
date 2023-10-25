@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+body{
+    background-color: darksalmon;
+}
+.container{
+    margin: 160px 0 0 200px;
+}
+.row{
+    width: 150%;
+    height: 60px;
+}
